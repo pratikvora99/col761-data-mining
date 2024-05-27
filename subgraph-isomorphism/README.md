@@ -1,10 +1,6 @@
 # col761
 Everything including and upto the final submission for HW2<br>
 
-Members:<br>
-* **Pratik Vora: 2022AIB2687** (Contribution: 67%) (Q1 & Q2)
-* **Dhruvil Sheth: 2022AIB2689** (Contribution: 33%) (Q3)
-
 Files Bundled:<br>
 Q1:<br> 
 1. **q1.sh**: To load modules for question 1 and run q1_run.py
