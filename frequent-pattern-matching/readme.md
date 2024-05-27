@@ -1,4 +1,4 @@
-### Frequent Pattern Matching<br>
+# Frequent Pattern Matching<br>
 
 ## Files<br>
 File Name | Description
@@ -15,3 +15,6 @@ runtime-plot.png    |    the plot of runtimes for different support-thresholds<b
 ## How to run the code<br>
 To compile the code: run `sh compile.sh`. This should the necessary executable files according to the environment of the C++ installation. <br>
 
+Now to find the frequent patterns using apriori/fp-tree algorithm: run `sh run.sh -algorithm -dataset -supportThresold -outFile<br>
+Here, algorithms are apriori or fptree.<br>
+supportThreshold should be a float value ranging between 0 and 1.<br>
