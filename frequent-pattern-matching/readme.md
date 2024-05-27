@@ -1,7 +1,9 @@
 ### Frequent Pattern Matching<br>
 
-### Bundled Files<br>
-run.sh     |   Shell-script to run the code<br>
+### Files<br>
+File Name | Description
+--- | ---
+run.sh | Shell-script to run the code<br>
 apriori_final.cpp  |   Implementation of Apriori algorithm<br>
 common.lib        |      a bash library for storing constants<br>
 compile.sh       |     Shell-script to compile the cpp code<br>
