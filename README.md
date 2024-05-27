@@ -8,3 +8,6 @@ The projects are:
   <li>Subgraph Isomorphism</li>
   <li>Traffic Prediction using GNN</li>
 </ul>
+
+My partners were:
+Anwoy Chatterjee and Dhruvil Sheth
