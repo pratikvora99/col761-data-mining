@@ -25,7 +25,7 @@ K-Means clustering:<br>
 
 Code Execution Instructions:<br>
 Frequent Subgraph Mining:<br>
-`sh q1.sh \<dataset\>`<br>
+`sh run.sh \<dataset\>`<br>
 
 Subgraph Isomorphism:<br>
 `sh index.sh \<dataset\>`<br>
