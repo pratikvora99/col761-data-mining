@@ -2,7 +2,7 @@
 
 Files:<br>
 Frequent Subgraph Mining:<br> 
-1. **run.sh**: To load modules for question 1 and run q1_run.py
+1. **run.sh**: To load modules for question 1 and run run.py
 2. **run.py**: Calls the preprocessor.py and binaries on formatted preprocessed data
 3. **preprocessor.py**: preprocesses the dataset into the form usable for each binaries
 4. **gaston**: Gaston binary
@@ -20,7 +20,7 @@ Subgraph Isomorphism:<br>
 8. **boost.zip**: Boost Library for Subgraph Isomorphism
 
 K-Means clustering:<br>
-1. **elbow_plot.sh**: Loads modules and runs q1.py
+1. **elbow_plot.sh**: Loads modules and runs run.py
 2. **run.py**: For values of k from 1 to 15, runs KMeans clustering algorithm to plot elbow-graph.
 
 Code Execution Instructions:<br>
