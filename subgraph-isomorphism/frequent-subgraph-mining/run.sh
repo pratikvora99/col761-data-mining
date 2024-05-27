@@ -7,4 +7,4 @@ python3 preprocessor.py "${1}" fsg
 python3 preprocessor.py "${1}" gaston
 python3 preprocessor.py "${1}" gspan
 
-python3 q1_run.py "${1}"
+python3 run.py "${1}"
